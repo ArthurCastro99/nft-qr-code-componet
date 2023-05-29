@@ -40,7 +40,7 @@ body {
 }
 
 @media (max-width: 375px) {
-  .section {
+  .main {
     padding: 20px;
   }
   .conteudo .titulo,.info {
