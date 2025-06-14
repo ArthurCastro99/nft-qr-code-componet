@@ -1,6 +1,6 @@
 :root{
     --bg-qr-code: hsl(0, 0%, 100%);
-    --info: hsl(212, 45%, 89%);
-    --bg-fundo: hsl(220, 15%, 55%);
+    --bg-fundo: hsl(212, 45%, 89%);
+    --paragrafo: hsl(220, 15%, 55%);
     --titulo: hsl(218, 44%, 22%);
 }
